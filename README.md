@@ -1,4 +1,4 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - Mars Rover Photo Shuffle
 
 Submitted by: Emely Barcenas
 
@@ -32,16 +32,14 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] Multiple types of attributes are clickable and can be added to the ban list
-- [ ] Users can see a stored history of their previously displayed  results from this session
-  - A dedicated section of the application displays all the previous images/attributes seen before
-  - Each time the API call button is clicked, the history updates with the newest API result
+
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/discover-nasa-app/public/mars-rover-photos.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap
