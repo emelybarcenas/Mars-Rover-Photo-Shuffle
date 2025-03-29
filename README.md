@@ -39,7 +39,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/discover-nasa-app/public/mars-rover-photos.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='public/mars-rover-photos.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap
